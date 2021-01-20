@@ -1,0 +1,7 @@
+{
+  "timestamp": "2021-01-18T11:27:51.915+0800",
+  "status": 500,
+  "error": "Internal Server Error",
+  "message": "Failed to obtain JDBC Connection; nested exception is java.sql.SQLException: Access denied for user ''@'117.136.45.153' (using password: YES)",
+  "path": "/getUserList"
+}
